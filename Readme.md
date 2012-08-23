@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/Gozala/dispatcher.png)](http://travis-ci.org/Gozala/dispatcher)
 # dispatcher #
 
 [Pattern matching] for JavaScript.
